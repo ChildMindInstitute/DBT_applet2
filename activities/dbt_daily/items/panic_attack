@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Did you have a **panic attack** today?",
+    "question": "\r\n\r\n![panic.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet2/master/images/png/panic.png =250x250)\r\n\r\nDid you have a **panic attack** today?",
     "responseOptions": {
         "choices": [
             {

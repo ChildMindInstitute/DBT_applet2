@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "Did you have **negative thoughts** today?",
+    "question": "\r\n\r\n![negative_thoughts.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet2/master/images/png/negative_thoughts.png =250x250)\r\n\r\nDid you have **negative thoughts** today?",
     "responseOptions": {
         "choices": [
             {
