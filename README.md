@@ -2,6 +2,12 @@
 
 [Mindlogger](https://mindlogger.org/) applet for Dialectical Behavorial Therapy daily diary card.
 
+### Target behaviors questions for this set:
+1. How intense were your urges for suicide today?
+2. Did you have negative thoughts today?
+3. Did you have a panic attack today?
+4. How intense were your urges to skip class today?
+
 
 ## Image Attribution
 Here are the images used in the applet, as well as the images used in the process of creating them. Images without source images to the left were created from scratch. 
