@@ -3,14 +3,14 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "lying_act",
+    "@id": "skip_class_act",
     "ui": {
         "inputType": "radio",
         "allow": [
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![behaviorAct.png](https://raw.githubusercontent.com/hotavocado/DBT_diary_card/master/images/png/behaviorAct.png =250x250)\r\n\r\nDid you **act** on the urge?",
+    "question": "\r\n\r\n![behaviorAct.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet2/master/images/png/behaviorAct.png =250x250)\r\n\r\nDid you **act** on the urge?",
     "responseOptions": {
         "choices": [
             {

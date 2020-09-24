@@ -1,12 +1,11 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ChildMindInstitute/DBT_diary_applet/master/activities/dbt_daily/dbt_daily_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet2/master/activities/dbt_daily/dbt_daily_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "dbt_daily_schema",
     "skos:prefLabel": "Daily Diary Card",
-    "skos:altLabel": "dbt_daily_schema",
     "schema:description": "Record your emotions, target behaviors, and DBT skills used for today",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
@@ -59,53 +58,23 @@
                 "isVis": true
             },
             {
-                "variableName": "self_harm_urges",
-                "isAbout": "self_harm_urges",
+                "variableName": "negative_thoughts",
+                "isAbout": "negative_thoughts",
                 "isVis": true
             },
             {
-                "variableName": "self_harm_act",
-                "isAbout": "self_harm_act",
+                "variableName": "panic_attack",
+                "isAbout": "panic_attack",
                 "isVis": true
             },
             {
-                "variableName": "impulsive_urges",
-                "isAbout": "impulsive_urges",
+                "variableName": "skip_class_urges",
+                "isAbout": "skip_class_urges",
                 "isVis": true
             },
             {
-                "variableName": "impulsive_urges_act",
-                "isAbout": "impulsive_urges_act",
-                "isVis": true
-            },
-            {
-                "variableName": "picking_scratching_urges",
-                "isAbout": "picking_scratching_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "picking_scratching_act",
-                "isAbout": "picking_scratching_act",
-                "isVis": true
-            },
-            {
-                "variableName": "planning_suicide_urges",
-                "isAbout": "planning_suicide_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "planning_suicide_act",
-                "isAbout": "planning_suicide_act",
-                "isVis": true
-            },
-            {
-                "variableName": "purging_urges",
-                "isAbout": "purging_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "purging_act",
-                "isAbout": "purging_act",
+                "variableName": "skip_class_act",
+                "isAbout": "skip_class_act",
                 "isVis": true
             },
             {
@@ -139,16 +108,10 @@
             "target_behaviors_instructions",
             "suicide_urges",
             "suicide_act",
-            "self_harm_urges",
-            "self_harm_act",
-            "impulsive_urges",
-            "impulsive_urges_act",
-            "picking_scratching_urges",
-            "picking_scratching_act",
-            "planning_suicide_urges",
-            "planning_suicide_act",
-            "purging_urges",
-            "purging_act",
+            "negative_thoughts",
+            "panic_attack",
+            "skip_class_urges",
+            "skip_class_act",
             "mindfulness_skills",
             "interpersonal_skills",
             "emotion_regulation",

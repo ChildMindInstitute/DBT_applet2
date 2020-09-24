@@ -1,20 +1,20 @@
 //User inputs: these are specific to your protocol, fill out before using the script
 
 //1. your protocol id: use underscore for spaces, avoid special characters. The display name is the one that will show up in the app, this will be parsed as string.
-const protocolName = "DBT_diary_card"
+const protocolName = "DBT_diary_card_S2"
 
 //2. your protocol display name: this will show up in the app and be parsed as a string
-const protocolDisplayName = "DBT Daily Diary Card v1.06"
+const protocolDisplayName = "DBT Daily Diary Card"
 
 //2. create your raw github repo URL
-const userName = 'hotavocado'
-const repoName = 'DBT_diary_card'
+const userName = 'ChildMindInstitute'
+const repoName = 'DBT_applet2'
 const branchName = 'master'
 
 let yourRepoURL = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}`
 
 //3. add a description to your protocol
-let protocolDescription = "Record your daily progress with Dialectical Behavorial Therapy"
+let protocolDescription = "Record your daily progress with Dialectical Behavorial Therapy (Set 2)"
 
 //4. where are you hosting your images?
 let imagePath = `https://raw.githubusercontent.com/${userName}/${repoName}/${branchName}/images/png/`

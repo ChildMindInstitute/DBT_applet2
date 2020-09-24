@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "dbt_daily": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_diary_applet/master/activities/dbt_daily/items/",
+        "dbt_daily": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet2/master/activities/dbt_daily/items/",
         "emotions_instructions": {
             "@id": "dbt_daily:emotions_instructions",
             "@type": "@id"
@@ -38,44 +38,20 @@
             "@id": "dbt_daily:suicide_act",
             "@type": "@id"
         },
-        "self_harm_urges": {
-            "@id": "dbt_daily:self_harm_urges",
+        "negative_thoughts": {
+            "@id": "dbt_daily:negative_thoughts",
             "@type": "@id"
         },
-        "self_harm_act": {
-            "@id": "dbt_daily:self_harm_act",
+        "panic_attack": {
+            "@id": "dbt_daily:panic_attack",
             "@type": "@id"
         },
-        "impulsive_urges": {
-            "@id": "dbt_daily:impulsive_urges",
+        "skip_class_urges": {
+            "@id": "dbt_daily:skip_class_urges",
             "@type": "@id"
         },
-        "impulsive_urges_act": {
-            "@id": "dbt_daily:impulsive_urges_act",
-            "@type": "@id"
-        },
-        "picking_scratching_urges": {
-            "@id": "dbt_daily:picking_scratching_urges",
-            "@type": "@id"
-        },
-        "picking_scratching_act": {
-            "@id": "dbt_daily:picking_scratching_act",
-            "@type": "@id"
-        },
-        "planning_suicide_urges": {
-            "@id": "dbt_daily:planning_suicide_urges",
-            "@type": "@id"
-        },
-        "planning_suicide_act": {
-            "@id": "dbt_daily:planning_suicide_act",
-            "@type": "@id"
-        },
-        "purging_urges": {
-            "@id": "dbt_daily:purging_urges",
-            "@type": "@id"
-        },
-        "purging_act": {
-            "@id": "dbt_daily:purging_act",
+        "skip_class_act": {
+            "@id": "dbt_daily:skip_class_act",
             "@type": "@id"
         },
         "mindfulness_skills": {
